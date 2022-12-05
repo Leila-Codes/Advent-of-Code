@@ -5,7 +5,7 @@
 elfCalorieTotals = set()       # list of total calories per elf
 
 # open the provided input file
-with open("01_Calorie_counting/input.txt", "r") as inFile:
+with open("input.txt", "r") as inFile:
     # temp var to store total.
     calorie_total = 0
 
